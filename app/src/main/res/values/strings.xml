@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TodoList</string>
+    <string name="sign_in">Sign In</string>
+    <string name = "sign_up">Sign Up</string>
+    <string name = "title">Navigate Your Work\n Journey Efficient &amp; Easy</string>
+    <string name = "title_1">Increase your work management &amp; career\ndevelopment radically</string>
 </resources>
